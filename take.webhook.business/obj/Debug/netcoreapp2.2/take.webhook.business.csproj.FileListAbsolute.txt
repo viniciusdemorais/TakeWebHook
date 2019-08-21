@@ -1,0 +1,16 @@
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.business\bin\Debug\netcoreapp2.2\take.webhook.business.deps.json
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.business\bin\Debug\netcoreapp2.2\take.webhook.business.dll
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.business\bin\Debug\netcoreapp2.2\take.webhook.business.pdb
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.business\bin\Debug\netcoreapp2.2\take.webhook.core.dll
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.business\bin\Debug\netcoreapp2.2\take.webhook.entity.dll
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.business\bin\Debug\netcoreapp2.2\take.webhook.repository.dll
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.business\bin\Debug\netcoreapp2.2\take.webhook.core.pdb
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.business\bin\Debug\netcoreapp2.2\take.webhook.repository.pdb
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.business\bin\Debug\netcoreapp2.2\take.webhook.entity.pdb
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.business\obj\Debug\netcoreapp2.2\take.webhook.business.csprojAssemblyReference.cache
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.business\obj\Debug\netcoreapp2.2\take.webhook.business.csproj.CoreCompileInputs.cache
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.business\obj\Debug\netcoreapp2.2\take.webhook.business.AssemblyInfoInputs.cache
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.business\obj\Debug\netcoreapp2.2\take.webhook.business.AssemblyInfo.cs
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.business\obj\Debug\netcoreapp2.2\take.webhook.business.csproj.CopyComplete
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.business\obj\Debug\netcoreapp2.2\take.webhook.business.dll
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.business\obj\Debug\netcoreapp2.2\take.webhook.business.pdb

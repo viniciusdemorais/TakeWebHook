@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\take.webhook.core\take.webhook.core.csproj" />
+    <ProjectReference Include="..\take.webhook.entity\take.webhook.entity.csproj" />
+  </ItemGroup>
+
+</Project>

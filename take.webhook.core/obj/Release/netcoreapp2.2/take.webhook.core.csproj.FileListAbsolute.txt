@@ -1,0 +1,9 @@
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.core\bin\Release\netcoreapp2.2\take.webhook.core.deps.json
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.core\bin\Release\netcoreapp2.2\take.webhook.core.dll
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.core\bin\Release\netcoreapp2.2\take.webhook.core.pdb
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.core\obj\Release\netcoreapp2.2\take.webhook.core.csprojAssemblyReference.cache
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.core\obj\Release\netcoreapp2.2\take.webhook.core.csproj.CoreCompileInputs.cache
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.core\obj\Release\netcoreapp2.2\take.webhook.core.AssemblyInfoInputs.cache
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.core\obj\Release\netcoreapp2.2\take.webhook.core.AssemblyInfo.cs
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.core\obj\Release\netcoreapp2.2\take.webhook.core.dll
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.core\obj\Release\netcoreapp2.2\take.webhook.core.pdb
