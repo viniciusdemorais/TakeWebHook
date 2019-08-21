@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\viniciusm\\Desktop\\Source\\take.webhook.webapi\\take.webhook.core\\take.webhook.core.csproj": {}
+    "C:\\Users\\Vinicius de Morais\\Desktop\\Sources\\TakeWebHook\\take.webhook.core\\take.webhook.core.csproj": {}
   },
   "projects": {
-    "D:\\Users\\viniciusm\\Desktop\\Source\\take.webhook.webapi\\take.webhook.core\\take.webhook.core.csproj": {
+    "C:\\Users\\Vinicius de Morais\\Desktop\\Sources\\TakeWebHook\\take.webhook.core\\take.webhook.core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\viniciusm\\Desktop\\Source\\take.webhook.webapi\\take.webhook.core\\take.webhook.core.csproj",
+        "projectUniqueName": "C:\\Users\\Vinicius de Morais\\Desktop\\Sources\\TakeWebHook\\take.webhook.core\\take.webhook.core.csproj",
         "projectName": "take.webhook.core",
-        "projectPath": "D:\\Users\\viniciusm\\Desktop\\Source\\take.webhook.webapi\\take.webhook.core\\take.webhook.core.csproj",
-        "packagesPath": "D:\\Users\\viniciusm\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\viniciusm\\Desktop\\Source\\take.webhook.webapi\\take.webhook.core\\obj\\",
+        "projectPath": "C:\\Users\\Vinicius de Morais\\Desktop\\Sources\\TakeWebHook\\take.webhook.core\\take.webhook.core.csproj",
+        "packagesPath": "C:\\Users\\Vinicius de Morais\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vinicius de Morais\\Desktop\\Sources\\TakeWebHook\\take.webhook.core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "D:\\Users\\viniciusm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vinicius de Morais\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

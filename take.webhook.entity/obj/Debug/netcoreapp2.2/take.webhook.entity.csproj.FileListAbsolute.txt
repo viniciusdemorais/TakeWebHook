@@ -10,3 +10,15 @@ D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.entity\obj\De
 D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.entity\obj\Debug\netcoreapp2.2\take.webhook.entity.csproj.CopyComplete
 D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.entity\obj\Debug\netcoreapp2.2\take.webhook.entity.dll
 D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.entity\obj\Debug\netcoreapp2.2\take.webhook.entity.pdb
+C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.entity\bin\Debug\netcoreapp2.2\take.webhook.entity.deps.json
+C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.entity\bin\Debug\netcoreapp2.2\take.webhook.entity.dll
+C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.entity\bin\Debug\netcoreapp2.2\take.webhook.entity.pdb
+C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.entity\bin\Debug\netcoreapp2.2\take.webhook.core.dll
+C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.entity\bin\Debug\netcoreapp2.2\take.webhook.core.pdb
+C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.entity\obj\Debug\netcoreapp2.2\take.webhook.entity.csprojAssemblyReference.cache
+C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.entity\obj\Debug\netcoreapp2.2\take.webhook.entity.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.entity\obj\Debug\netcoreapp2.2\take.webhook.entity.AssemblyInfoInputs.cache
+C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.entity\obj\Debug\netcoreapp2.2\take.webhook.entity.AssemblyInfo.cs
+C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.entity\obj\Debug\netcoreapp2.2\take.webhook.entity.csproj.CopyComplete
+C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.entity\obj\Debug\netcoreapp2.2\take.webhook.entity.dll
+C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.entity\obj\Debug\netcoreapp2.2\take.webhook.entity.pdb

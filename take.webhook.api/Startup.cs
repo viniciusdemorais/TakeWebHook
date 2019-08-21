@@ -48,10 +48,10 @@ namespace take.webhook.api
                     Type = "apiKey"
                 });
 
-                c.AddSecurityRequirement(new Dictionary<string, IEnumerable<string>>
-                {
-                    { "Bearer", Enumerable.Empty<string>() }
-                });
+                //c.AddSecurityRequirement(new Dictionary<string, IEnumerable<string>>
+                //{
+                //    { "Bearer", Enumerable.Empty<string>() }
+                //});
 
                 c.SwaggerDoc("v1", new Info
                 {
@@ -84,6 +84,10 @@ namespace take.webhook.api
                 c.RoutePrefix = string.Empty;
             });
 
+            app.UseCors(c =>
+            {
+                c.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
+            });
 
             app.UseMvc(routes =>
             {
