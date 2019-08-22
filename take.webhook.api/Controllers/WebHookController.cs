@@ -1,4 +1,4 @@
-﻿using Lime.Protocol;
+﻿using Lime.Protocol.Serialization.Newtonsoft;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using take.webhook.business;
@@ -19,9 +19,8 @@ namespace take.webhook.api.Controllers
         }
 
         [HttpPost]
-        public IActionResult SaveBruteData([FromBody]Message data)
+        public IActionResult SaveBruteData([FromBody]object data) // objeto anônimo pois podem chegar mais de um tipo de objeto
         {
-
             return Json(_webHookBll.Save(new DadoBrutoDTO() { Dado = JsonConvert.SerializeObject(data) }));
         }
     }
