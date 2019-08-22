@@ -36,6 +36,7 @@ namespace take.webhook.api
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
+            services.AddCors();
 
             // Registro do gerador de swagger, definindo um ou mais documentos.
             services.AddSwaggerGen(c =>
