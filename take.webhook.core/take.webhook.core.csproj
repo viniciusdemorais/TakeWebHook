@@ -10,6 +10,12 @@
 
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="Lime.Messaging" Version="0.8.107" />
+    <PackageReference Include="Lime.Protocol" Version="0.8.107" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="BO\" />
   </ItemGroup>
 
 </Project>

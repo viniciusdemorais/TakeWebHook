@@ -5,6 +5,7 @@ namespace take.webhook.core.Contract.Business
 {
     public interface IWebHookBll
     {
-        BaseResponse<DadoBrutoDTO> Save(DadoBrutoDTO data);
+        BaseResponse<DadoBrutoDTO> SaveDadoBruto(DadoBrutoDTO data);
+        BaseResponse<RespostaWebHookDTO> SaveRespostaWebHook(RespostaWebHookDTO data);
     }
 }

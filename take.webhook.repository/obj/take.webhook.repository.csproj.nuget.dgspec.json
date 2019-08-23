@@ -45,6 +45,14 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
+            "Lime.Messaging": {
+              "target": "Package",
+              "version": "[0.8.107, )"
+            },
+            "Lime.Protocol": {
+              "target": "Package",
+              "version": "[0.8.107, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",

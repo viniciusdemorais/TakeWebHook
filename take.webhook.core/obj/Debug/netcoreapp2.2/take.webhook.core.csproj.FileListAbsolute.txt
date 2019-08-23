@@ -1,3 +1,11 @@
+C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.core\bin\Debug\netcoreapp2.2\take.webhook.core.deps.json
+C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.core\bin\Debug\netcoreapp2.2\take.webhook.core.dll
+C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.core\bin\Debug\netcoreapp2.2\take.webhook.core.pdb
+C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.core\obj\Debug\netcoreapp2.2\take.webhook.core.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.core\obj\Debug\netcoreapp2.2\take.webhook.core.AssemblyInfoInputs.cache
+C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.core\obj\Debug\netcoreapp2.2\take.webhook.core.AssemblyInfo.cs
+C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.core\obj\Debug\netcoreapp2.2\take.webhook.core.dll
+C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.core\obj\Debug\netcoreapp2.2\take.webhook.core.pdb
 D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.core\bin\Debug\netcoreapp2.2\take.webhook.core.deps.json
 D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.core\bin\Debug\netcoreapp2.2\take.webhook.core.dll
 D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.core\bin\Debug\netcoreapp2.2\take.webhook.core.pdb
@@ -7,11 +15,3 @@ D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.core\obj\Debu
 D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.core\obj\Debug\netcoreapp2.2\take.webhook.core.AssemblyInfo.cs
 D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.core\obj\Debug\netcoreapp2.2\take.webhook.core.dll
 D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.core\obj\Debug\netcoreapp2.2\take.webhook.core.pdb
-C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.core\bin\Debug\netcoreapp2.2\take.webhook.core.deps.json
-C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.core\bin\Debug\netcoreapp2.2\take.webhook.core.dll
-C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.core\bin\Debug\netcoreapp2.2\take.webhook.core.pdb
-C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.core\obj\Debug\netcoreapp2.2\take.webhook.core.csproj.CoreCompileInputs.cache
-C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.core\obj\Debug\netcoreapp2.2\take.webhook.core.AssemblyInfoInputs.cache
-C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.core\obj\Debug\netcoreapp2.2\take.webhook.core.AssemblyInfo.cs
-C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.core\obj\Debug\netcoreapp2.2\take.webhook.core.dll
-C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.core\obj\Debug\netcoreapp2.2\take.webhook.core.pdb

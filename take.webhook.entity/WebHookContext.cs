@@ -10,7 +10,9 @@ namespace take.webhook.entity
 {
     public class WebHookContext : DbContext
     {
+        public DbSet<Conversa> Conversa { get; set; }
         public DbSet<DadoBruto> DadoBruto { get; set; }
+        public DbSet<RespostaWebHook> RespostaWebHook { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

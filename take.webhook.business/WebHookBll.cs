@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using take.webhook.core.Contract.Business;
+﻿using take.webhook.core.Contract.Business;
 using take.webhook.core.Contract.Repositories;
 using take.webhook.core.DTO;
 using take.webhook.core.DTO.Entities;
@@ -11,16 +8,21 @@ namespace take.webhook.business
 {
     public class WebHookBll : IWebHookBll
     {
-        readonly IDadoBrutoRepository _dadoBrutoRepository;
+        readonly IWebHookRepository _webHookRepository;
 
         public WebHookBll()
         {
-            _dadoBrutoRepository = new DadoBrutoRepository();
+            _webHookRepository = new WebHookRepository();
         }
 
-        public BaseResponse<DadoBrutoDTO> Save(DadoBrutoDTO data)
+        public BaseResponse<DadoBrutoDTO> SaveDadoBruto(DadoBrutoDTO data)
         {
-            return _dadoBrutoRepository.Save(data);
+            return _webHookRepository.SaveDadoBruto(data);
+        }
+
+        public BaseResponse<RespostaWebHookDTO> SaveRespostaWebHook(RespostaWebHookDTO data)
+        {           
+            return _webHookRepository.SaveRespostaWebHook(data);
         }
     }
 }

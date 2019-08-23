@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "a381ab7c475a0e2214f4c1d51977cf901194d301"
+    "signature": "f6eff8da33ccc30abf3ae5909c296a2f63fd0887"
   },
   "compilationOptions": {
     "defines": [
@@ -24,7 +24,9 @@
     ".NETCoreApp,Version=v2.2": {
       "take.webhook.api/1.0.0": {
         "dependencies": {
+          "Lime.Messaging": "0.8.107",
           "Lime.Protocol": "0.8.107",
+          "Lime.Protocol.Serialization": "0.7.278",
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
           "Microsoft.NETCore.App": "2.2.0",
@@ -87,6 +89,21 @@
           "lib/netstandard1.0/Google.Protobuf.dll": {}
         }
       },
+      "Lime.Messaging/0.8.107": {
+        "dependencies": {
+          "Lime.Protocol": "0.8.107",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.6/Lime.Messaging.dll": {
+            "assemblyVersion": "0.8.107.0",
+            "fileVersion": "0.8.107.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard1.6/Lime.Messaging.dll": {}
+        }
+      },
       "Lime.Protocol/0.8.107": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
@@ -105,6 +122,23 @@
         },
         "compile": {
           "lib/netstandard1.6/Lime.Protocol.dll": {}
+        }
+      },
+      "Lime.Protocol.Serialization/0.7.278": {
+        "dependencies": {
+          "Lime.Protocol": "0.8.107",
+          "NETStandard.Library": "2.0.3",
+          "Newtonsoft.Json": "12.0.2",
+          "System.Reflection.TypeExtensions": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard1.6/Lime.Protocol.Serialization.dll": {
+            "assemblyVersion": "0.7.278.0",
+            "fileVersion": "0.7.278.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard1.6/Lime.Protocol.Serialization.dll": {}
         }
       },
       "Microsoft.CodeAnalysis.CSharp.Workspaces/2.8.0": {
@@ -817,7 +851,9 @@
       },
       "take.webhook.core/1.0.0": {
         "dependencies": {
-          "AutoMapper": "9.0.0"
+          "AutoMapper": "9.0.0",
+          "Lime.Messaging": "0.8.107",
+          "Lime.Protocol": "0.8.107"
         },
         "runtime": {
           "take.webhook.core.dll": {}
@@ -3997,12 +4033,26 @@
       "path": "google.protobuf/3.6.1",
       "hashPath": "google.protobuf.3.6.1.nupkg.sha512"
     },
+    "Lime.Messaging/0.8.107": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rCfXkl2WgEspwtiyXpZMDx5cOULw5MwIKPem/+itsimZ3q4rwn2ynjpDhdoDnlicBdVES98blg/tbSrlHyMKIw==",
+      "path": "lime.messaging/0.8.107",
+      "hashPath": "lime.messaging.0.8.107.nupkg.sha512"
+    },
     "Lime.Protocol/0.8.107": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-kFWZPq3KRVU90Is+Cw9JelPpxB65aYxH/hXjn0e7j57BHBTzxY3IYzvjF6ymGOrsxTpVMVLYfCYnBZuwRgfrwA==",
       "path": "lime.protocol/0.8.107",
       "hashPath": "lime.protocol.0.8.107.nupkg.sha512"
+    },
+    "Lime.Protocol.Serialization/0.7.278": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-supld9YvKoq1AXaZZa4fzw1Nm3KW0ZXNvfh2Jh4E2CIA9GffMm/4ikNCubiRwAwwQmiyOEo2DqfQJLj5s0B5GA==",
+      "path": "lime.protocol.serialization/0.7.278",
+      "hashPath": "lime.protocol.serialization.0.7.278.nupkg.sha512"
     },
     "Microsoft.CodeAnalysis.CSharp.Workspaces/2.8.0": {
       "type": "package",

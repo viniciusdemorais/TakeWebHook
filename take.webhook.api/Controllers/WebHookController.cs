@@ -1,6 +1,5 @@
 ﻿using Lime.Protocol.Serialization.Newtonsoft;
 using Microsoft.AspNetCore.Mvc;
-using Newtonsoft.Json;
 using take.webhook.business;
 using take.webhook.core.Contract.Business;
 using take.webhook.core.DTO.Entities;
@@ -12,16 +11,17 @@ namespace take.webhook.api.Controllers
     public class WebHookController : Controller
     {
         readonly IWebHookBll _webHookBll;
-
+        //readonly JsonNetSerializer _jsonNetSerializer;
         public WebHookController()
         {
             _webHookBll = new WebHookBll();
+            //_jsonNetSerializer = new JsonNetSerializer();
         }
 
         [HttpPost]
-        public IActionResult SaveBruteData([FromBody]object data) // objeto anônimo pois podem chegar mais de um tipo de objeto
+        public IActionResult SaveBruteData([FromBody]RespostaWebHookDTO data)
         {
-            return Json(_webHookBll.Save(new DadoBrutoDTO() { Dado = JsonConvert.SerializeObject(data) }));
+            return Json(_webHookBll.SaveRespostaWebHook(data));
         }
     }
 }

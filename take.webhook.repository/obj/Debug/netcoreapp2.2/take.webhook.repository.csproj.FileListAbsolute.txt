@@ -1,17 +1,3 @@
-D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\bin\Debug\netcoreapp2.2\take.webhook.repository.deps.json
-D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\bin\Debug\netcoreapp2.2\take.webhook.repository.dll
-D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\bin\Debug\netcoreapp2.2\take.webhook.repository.pdb
-D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\bin\Debug\netcoreapp2.2\take.webhook.core.dll
-D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\bin\Debug\netcoreapp2.2\take.webhook.entity.dll
-D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\bin\Debug\netcoreapp2.2\take.webhook.core.pdb
-D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\bin\Debug\netcoreapp2.2\take.webhook.entity.pdb
-D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\obj\Debug\netcoreapp2.2\take.webhook.repository.csprojAssemblyReference.cache
-D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\obj\Debug\netcoreapp2.2\take.webhook.repository.csproj.CoreCompileInputs.cache
-D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\obj\Debug\netcoreapp2.2\take.webhook.repository.AssemblyInfoInputs.cache
-D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\obj\Debug\netcoreapp2.2\take.webhook.repository.AssemblyInfo.cs
-D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\obj\Debug\netcoreapp2.2\take.webhook.repository.csproj.CopyComplete
-D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\obj\Debug\netcoreapp2.2\take.webhook.repository.dll
-D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\obj\Debug\netcoreapp2.2\take.webhook.repository.pdb
 C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.repository\bin\Debug\netcoreapp2.2\take.webhook.repository.deps.json
 C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.repository\bin\Debug\netcoreapp2.2\take.webhook.repository.dll
 C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.repository\bin\Debug\netcoreapp2.2\take.webhook.repository.pdb
@@ -26,3 +12,17 @@ C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.repository\
 C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.repository\obj\Debug\netcoreapp2.2\take.webhook.repository.csproj.CopyComplete
 C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.repository\obj\Debug\netcoreapp2.2\take.webhook.repository.dll
 C:\Users\Vinicius de Morais\Desktop\Sources\TakeWebHook\take.webhook.repository\obj\Debug\netcoreapp2.2\take.webhook.repository.pdb
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\bin\Debug\netcoreapp2.2\take.webhook.repository.deps.json
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\bin\Debug\netcoreapp2.2\take.webhook.repository.dll
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\bin\Debug\netcoreapp2.2\take.webhook.repository.pdb
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\bin\Debug\netcoreapp2.2\take.webhook.core.dll
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\bin\Debug\netcoreapp2.2\take.webhook.entity.dll
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\bin\Debug\netcoreapp2.2\take.webhook.core.pdb
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\bin\Debug\netcoreapp2.2\take.webhook.entity.pdb
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\obj\Debug\netcoreapp2.2\take.webhook.repository.csprojAssemblyReference.cache
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\obj\Debug\netcoreapp2.2\take.webhook.repository.csproj.CoreCompileInputs.cache
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\obj\Debug\netcoreapp2.2\take.webhook.repository.AssemblyInfoInputs.cache
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\obj\Debug\netcoreapp2.2\take.webhook.repository.AssemblyInfo.cs
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\obj\Debug\netcoreapp2.2\take.webhook.repository.csproj.CopyComplete
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\obj\Debug\netcoreapp2.2\take.webhook.repository.dll
+D:\Users\viniciusm\Desktop\Source\take.webhook.webapi\take.webhook.repository\obj\Debug\netcoreapp2.2\take.webhook.repository.pdb
