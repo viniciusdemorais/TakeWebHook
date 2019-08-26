@@ -6,6 +6,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Swashbuckle.AspNetCore.Swagger;
 using Swashbuckle.AspNetCore.SwaggerUI;
+using take.webhook.business;
+using take.webhook.core.Contract.Business;
 
 namespace take.webhook.api
 {
@@ -31,6 +33,8 @@ namespace take.webhook.api
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
             services.AddCors();
+
+            services.AddSingleton<IWebHookBll, WebHookBll>();
 
             // Registro do gerador de swagger, definindo um ou mais documentos.
             services.AddSwaggerGen(c =>

@@ -11,11 +11,9 @@ namespace take.webhook.api.Controllers
     public class WebHookController : Controller
     {
         readonly IWebHookBll _webHookBll;
-        //readonly JsonNetSerializer _jsonNetSerializer;
-        public WebHookController()
+        public WebHookController(IWebHookBll webHookBll)
         {
-            _webHookBll = new WebHookBll();
-            //_jsonNetSerializer = new JsonNetSerializer();
+            _webHookBll = webHookBll;
         }
 
         [HttpPost]
